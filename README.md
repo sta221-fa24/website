@@ -17,6 +17,9 @@ This website is design is based on the [STA 210 Spring 2022 website](https://sta
 
 Content is based on [STA 210 Fall 2023](https://sta210-fa21.netlify.app) taught by Dr. Maria Tackett, [STA 221 Fall 2023](https://www2.stat.duke.edu/courses/Fall23/sta211.01/course-schedule.html) taught by Dr. Miheer Dewaskar, and [STA 221 Spring 2023](https://www2.stat.duke.edu/courses/Spring23/sta211.01/) taught by Dr. Yue Jiang.
 
+The lab assignments were written in collaboration with Riccardo Rossetti, a PhD student in Statistical Science at Duke University, as part of the [Collaborative Project Expeditions](https://bassconnections.duke.edu/get-involved/students/funding-opportunities/collaborative-project-expeditions/). 
+
 <hr>
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" alt="Creative Commons License" style="border-width:0"/></a><br />All content on this website is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+
