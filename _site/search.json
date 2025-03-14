@@ -458,7 +458,7 @@
     "href": "slides/10-prop-of-estimators.html#recap",
     "title": "Properties of estimators",
     "section": "Recap",
-    "text": "Recap\n\nComputed and interpreted confidence interval for a single coefficient\nShowed some properties of \\(\\hat{\\boldsymbol{\\beta}}\\)\nDefined “linear” model\n\n\n\n\n\n🔗 STA 221 - Fall 2024"
+    "text": "Recap\n\nComputed and interpreted confidence interval for a single coefficient\nShowed some properties of \\(\\hat{\\boldsymbol{\\beta}}\\)\nDefined “linear” model"
   },
   {
     "objectID": "slides/21-logistic-inference.html#announcements",
@@ -696,7 +696,7 @@
     "href": "slides/21-logistic-inference.html#references",
     "title": "Logistic Regression: Inference",
     "section": "References",
-    "text": "References\n\n\n\n\n🔗 STA 221 - Fall 2024\n\n\n\n\nWilks, SS. 1935. “The Likelihood Test of Independence in Contingency Tables.” The Annals of Mathematical Statistics 6 (4): 190–96."
+    "text": "References\n\n\n\n\nWilks, SS. 1935. “The Likelihood Test of Independence in Contingency Tables.” The Annals of Mathematical Statistics 6 (4): 190–96."
   },
   {
     "objectID": "slides/05-slr-matrix-contd.html#announcements",
@@ -822,7 +822,7 @@
     "href": "slides/05-slr-matrix-contd.html#recap",
     "title": "SLR: Matrix representation",
     "section": "Recap",
-    "text": "Recap\n\nIntroduced matrix representation for simple linear regression\n\nModel from\nLeast square estimate\nPredicted (fitted) values\nResiduals\n\n\n\n\n\n\n🔗 STA 221 - Fall 2024"
+    "text": "Recap\n\nIntroduced matrix representation for simple linear regression\n\nModel from\nLeast square estimate\nPredicted (fitted) values\nResiduals"
   },
   {
     "objectID": "slides/06-mlr-pt2.html#announcements",
@@ -1011,7 +1011,7 @@
     "href": "slides/06-mlr-pt2.html#next-class",
     "title": "Multiple linear regression (MLR)",
     "section": "Next class",
-    "text": "Next class\n\nGeometric interpretation\nInference for regression\nSee Sep 17 prepare\n\n\n\n\n\n🔗 STA 221 - Fall 2024"
+    "text": "Next class\n\nGeometric interpretation\nInference for regression\nSee Sep 17 prepare"
   },
   {
     "objectID": "slides/19-logistic-regression.html#announcements",
@@ -1263,7 +1263,7 @@
     "href": "slides/19-logistic-regression.html#recap-1",
     "title": "Logistic Regression",
     "section": "Recap",
-    "text": "Recap\n\nReviewed the relationship between odds and probabilities\nIntroduced logistic regression for binary response variable\nInterpreted the coefficients of a logistic regression model with multiple predictors\nIntroduced generalized linear model\n\n\n\n\n\n🔗 STA 221 - Fall 2024"
+    "text": "Recap\n\nReviewed the relationship between odds and probabilities\nIntroduced logistic regression for binary response variable\nInterpreted the coefficients of a logistic regression model with multiple predictors\nIntroduced generalized linear model"
   },
   {
     "objectID": "slides/project-peer-review-lab.html#goals",
@@ -1298,7 +1298,7 @@
     "href": "slides/project-peer-review-lab.html#getting-started",
     "title": "Project peer review",
     "section": "Getting started",
-    "text": "Getting started\nFor each team you’re reviewing…\n\nOpen that team’s repo, read the project draft, and browse the rest of the repo.\nGo to the Issues tab in that repo, click on New issue, and click on Get started for the Peer Review issue.\nWrite your responses to the prompts in the issue.\n\n\n\n\n\n\n\nNote\n\n\nYou may choose to all work on both peer reviews or have some team members focus on a single peer review. Either way there will be one peer review grade assigned per team.\n\n\n\n\n\n\n\n🔗 STA 221 - Fall 2024"
+    "text": "Getting started\nFor each team you’re reviewing…\n\nOpen that team’s repo, read the project draft, and browse the rest of the repo.\nGo to the Issues tab in that repo, click on New issue, and click on Get started for the Peer Review issue.\nWrite your responses to the prompts in the issue.\n\n\n\n\n\n\n\nNote\n\n\nYou may choose to all work on both peer reviews or have some team members focus on a single peer review. Either way there will be one peer review grade assigned per team."
   },
   {
     "objectID": "slides/04-slr-matrix.html#topics",
@@ -1424,7 +1424,7 @@
     "href": "slides/04-slr-matrix.html#next-class",
     "title": "SLR: Matrix representation",
     "section": "Next class",
-    "text": "Next class\n\nMultiple linear regression\nSee Sep 10 prepare\n\n\n\n\n\n🔗 STA 221 - Fall 2024"
+    "text": "Next class\n\nMultiple linear regression\nSee Sep 10 prepare"
   },
   {
     "objectID": "slides/13-mle.html#announcements",
@@ -1606,7 +1606,7 @@
     "href": "slides/13-mle.html#references",
     "title": "Maximum likelihood estimation",
     "section": "References",
-    "text": "References\n\n\n\n\n🔗 STA 221 - Fall 2024\n\n\n\n\nCasella, George, and Roger Berger. 2024. Statistical Inference. CRC Press."
+    "text": "References\n\n\n\n\nCasella, George, and Roger Berger. 2024. Statistical Inference. CRC Press."
   },
   {
     "objectID": "slides/07-mlr-pt3.html#announcements",
@@ -1746,7 +1746,7 @@
     "href": "slides/07-mlr-pt3.html#next-class",
     "title": "ANOVA + Geometric interpretation",
     "section": "Next class",
-    "text": "Next class\n\nInference for regression\nSee Sep 19 prepare\n\n\n\n\n\n🔗 STA 221 - Fall 2024"
+    "text": "Next class\n\nInference for regression\nSee Sep 19 prepare"
   },
   {
     "objectID": "slides/14-model-diagnostics.html#announcements",
@@ -2040,7 +2040,7 @@
     "href": "slides/14-model-diagnostics.html#references",
     "title": "Model diagnostics",
     "section": "References",
-    "text": "References\n\n\n\n\n🔗 STA 221 - Fall 2024\n\n\n\n\nCasella, George, and Roger Berger. 2024. Statistical Inference. CRC Press."
+    "text": "References\n\n\n\n\nCasella, George, and Roger Berger. 2024. Statistical Inference. CRC Press."
   },
   {
     "objectID": "slides/08-inference.html#announcements",
@@ -2285,7 +2285,7 @@
     "href": "slides/08-inference.html#recap",
     "title": "Inference for regression",
     "section": "Recap",
-    "text": "Recap\n\nIntroduced statistical inference in the context of regression\nDescribed the assumptions for regression\nConnected the distribution of residuals and inferential procedures\nConducted inference on a single coefficient\n\n\n\n\n\n🔗 STA 221 - Fall 2024"
+    "text": "Recap\n\nIntroduced statistical inference in the context of regression\nDescribed the assumptions for regression\nConnected the distribution of residuals and inferential procedures\nConducted inference on a single coefficient"
   },
   {
     "objectID": "slides/lab-06.html#goals",
@@ -2313,7 +2313,7 @@
     "href": "slides/lab-06.html#reminder-tips-for-working-on-a-team",
     "title": "Lab 06",
     "section": "Reminder: Tips for working on a team",
-    "text": "Reminder: Tips for working on a team\n\nDo not pressure each other to finish early; use the time wisely to really learn the material and produce a quality report.\nThe labs are structured to help you learn the steps of a data analysis. Do not split up the lab among the team members; work on it together in its entirety.\nEveryone has something to contribute! Use the lab groups as an opportunity to share ideas and learn from each other.\n\n\n\n\n\n🔗 STA 221 - Fall 2024"
+    "text": "Reminder: Tips for working on a team\n\nDo not pressure each other to finish early; use the time wisely to really learn the material and produce a quality report.\nThe labs are structured to help you learn the steps of a data analysis. Do not split up the lab among the team members; work on it together in its entirety.\nEveryone has something to contribute! Use the lab groups as an opportunity to share ideas and learn from each other."
   },
   {
     "objectID": "slides/lab-04.html#goals",
@@ -2348,7 +2348,7 @@
     "href": "slides/lab-04.html#reminder-tips-for-working-on-a-team",
     "title": "Lab 04",
     "section": "Reminder: Tips for working on a team",
-    "text": "Reminder: Tips for working on a team\n\nDo not pressure each other to finish early; use the time wisely to really learn the material and produce a quality report.\nThe labs are structured to help you learn the steps of a data analysis. Do not split up the lab among the team members; work on it together in its entirety.\nEveryone has something to contribute! Use the lab groups as an opportunity to share ideas and learn from each other.\n\n\n\n\n\n🔗 STA 221 - Fall 2024"
+    "text": "Reminder: Tips for working on a team\n\nDo not pressure each other to finish early; use the time wisely to really learn the material and produce a quality report.\nThe labs are structured to help you learn the steps of a data analysis. Do not split up the lab among the team members; work on it together in its entirety.\nEveryone has something to contribute! Use the lab groups as an opportunity to share ideas and learn from each other."
   },
   {
     "objectID": "slides/23-logistic-regression-review.html#announcements",
@@ -2411,7 +2411,7 @@
     "href": "slides/lab-01.html#lab-01-park-access",
     "title": "Lab 01",
     "section": "Lab 01: Park access",
-    "text": "Lab 01: Park access\nToday’s lab focuses on exploratory data analysis and simple linear regression, content from Weeks 01 and 02 in the course.\n🔗 sta221-fa24.netlify.app/labs/lab-01.html\n\n\n\n\n🔗 STA 221 - Fall 2024"
+    "text": "Lab 01: Park access\nToday’s lab focuses on exploratory data analysis and simple linear regression, content from Weeks 01 and 02 in the course.\n🔗 sta221-fa24.netlify.app/labs/lab-01.html"
   },
   {
     "objectID": "slides/20-logistic-prediction.html#announcements",
@@ -2663,7 +2663,7 @@
     "href": "slides/20-logistic-prediction.html#further-reading",
     "title": "Logistic Regression: Prediction",
     "section": "Further reading",
-    "text": "Further reading\nClassification module in Google Machine Learning Crash Course\n\n\n\n\n🔗 STA 221 - Fall 2024"
+    "text": "Further reading\nClassification module in Google Machine Learning Crash Course"
   },
   {
     "objectID": "slides/lab-03.html#goals",
@@ -2712,7 +2712,7 @@
     "href": "slides/lab-03.html#reminder-tips-for-working-on-a-team",
     "title": "Lab 03",
     "section": "Reminder: Tips for working on a team",
-    "text": "Reminder: Tips for working on a team\n\nDo not pressure each other to finish early; use the time wisely to really learn the material and produce a quality report.\nThe labs are structured to help you learn the steps of a data analysis. Do not split up the lab among the team members; work on it together in its entirety.\nEveryone has something to contribute! Use the lab groups as an opportunity to share ideas and learn from each other.\n\n\n\n\n\n🔗 STA 221 - Fall 2024"
+    "text": "Reminder: Tips for working on a team\n\nDo not pressure each other to finish early; use the time wisely to really learn the material and produce a quality report.\nThe labs are structured to help you learn the steps of a data analysis. Do not split up the lab among the team members; work on it together in its entirety.\nEveryone has something to contribute! Use the lab groups as an opportunity to share ideas and learn from each other."
   },
   {
     "objectID": "index.html",
@@ -4910,7 +4910,7 @@
     "href": "slides/lab-02.html#lab-02-childcare-costs",
     "title": "Lab 02",
     "section": "Lab 02: Childcare costs",
-    "text": "Lab 02: Childcare costs\nToday’s lab focuses on using multiple linear regression (Week 03 content) to predict childcare costs for school-aged children in North Carolina.\n🔗 sta221-fa24.netlify.app/labs/lab-02.html\n\n\n\n\n🔗 STA 221 - Fall 2024"
+    "text": "Lab 02: Childcare costs\nToday’s lab focuses on using multiple linear regression (Week 03 content) to predict childcare costs for school-aged children in North Carolina.\n🔗 sta221-fa24.netlify.app/labs/lab-02.html"
   },
   {
     "objectID": "slides/04-slr-model-assessment-contd.html#announcements",
@@ -5050,7 +5050,7 @@
     "href": "slides/04-slr-model-assessment-contd.html#recap",
     "title": "SLR: Model assessment cont’d",
     "section": "Recap",
-    "text": "Recap\n\nEvaluated models using RMSE and \\(R^2\\)\nUsed analysis of variance to partition variability in the response variable\n\n\n\n\n\n🔗 STA 221 - Fall 2024"
+    "text": "Recap\n\nEvaluated models using RMSE and \\(R^2\\)\nUsed analysis of variance to partition variability in the response variable"
   },
   {
     "objectID": "slides/24-exam-02-review.html#announcements",
@@ -5127,7 +5127,7 @@
     "href": "slides/lab-00.html#todays-lab",
     "title": "Welcome to STA 221 labs!",
     "section": "Today’s lab",
-    "text": "Today’s lab\nThe rest of the today’s lab is focused on setting up the computing for the course and completing the class survey. Click the link below for the Lab 00 instructions. The instructions are available on the course website.\n\n🔗 sta221-fa24.netlify.app/labs/lab-00.html\n\n\n\n\n🔗 STA 221 - Fall 2024"
+    "text": "Today’s lab\nThe rest of the today’s lab is focused on setting up the computing for the course and completing the class survey. Click the link below for the Lab 00 instructions. The instructions are available on the course website.\n\n🔗 sta221-fa24.netlify.app/labs/lab-00.html"
   },
   {
     "objectID": "slides/02-slr.html#announcements",
@@ -5351,7 +5351,7 @@
     "href": "slides/02-slr.html#next-time",
     "title": "Simple linear regression",
     "section": "Next time",
-    "text": "Next time\n\nModel assessment for simple linear regression\n\nSee Sep 3 prepare\n\nBring fully-charged laptop or device with keyboard for in-class application exercise (AE)\n\n\n\n\n\n🔗 STA 221 - Fall 2024"
+    "text": "Next time\n\nModel assessment for simple linear regression\n\nSee Sep 3 prepare\n\nBring fully-charged laptop or device with keyboard for in-class application exercise (AE)"
   },
   {
     "objectID": "slides/lab-05.html#goals",
@@ -5386,7 +5386,7 @@
     "href": "slides/lab-05.html#reminder-tips-for-working-on-a-team",
     "title": "Lab 05",
     "section": "Reminder: Tips for working on a team",
-    "text": "Reminder: Tips for working on a team\n\nDo not pressure each other to finish early; use the time wisely to really learn the material and produce a quality report.\nThe labs are structured to help you learn the steps of a data analysis. Do not split up the lab among the team members; work on it together in its entirety.\nEveryone has something to contribute! Use the lab groups as an opportunity to share ideas and learn from each other.\n\n\n\n\n\n🔗 STA 221 - Fall 2024"
+    "text": "Reminder: Tips for working on a team\n\nDo not pressure each other to finish early; use the time wisely to really learn the material and produce a quality report.\nThe labs are structured to help you learn the steps of a data analysis. Do not split up the lab among the team members; work on it together in its entirety.\nEveryone has something to contribute! Use the lab groups as an opportunity to share ideas and learn from each other."
   },
   {
     "objectID": "slides/01-welcome.html#meet-prof.-tackett",
@@ -5449,7 +5449,7 @@
     "href": "slides/01-welcome.html#course-topics",
     "title": "Welcome to STA 221!",
     "section": "Course topics",
-    "text": "Course topics\n\n\n\n\nLinear regression\n\nCoefficient estimation and interpretation\nPrediction\nModel assessment\nMatrix representation of regression\nEstimators\nModel conditions and diagnostics\nDifferent types of predictor variables\n\n\n\n\n\nLogistic regression\n\nCoefficient estimation and interpretation\nPrediction\nModel assessment\nInference\n\n\n\n\nGeneral topics\n\nComputing using R and GitHub\nPresenting statistical results\nCollaboration and teamwork"
+    "text": "Course topics\n\n\n\nLinear regression\n\nCoefficient estimation and interpretation\nPrediction\nModel assessment\nMatrix representation of regression\nEstimators\nModel conditions and diagnostics\nDifferent types of predictor variables\n\n\n\n\nLogistic regression\n\nCoefficient estimation and interpretation\nPrediction\nModel assessment\nInference\n\n\n\nGeneral topics\n\nComputing using R and GitHub\nPresenting statistical results\nCollaboration and teamwork"
   },
   {
     "objectID": "slides/01-welcome.html#course-toolkit",
@@ -5610,7 +5610,7 @@
     "href": "slides/01-welcome.html#references",
     "title": "Welcome to STA 221!",
     "section": "References",
-    "text": "References\n\n\n\n\n🔗 STA 221 - Fall 2024\n\n\n\n\nAlexander, Rohan. 2023. “Telling Stories with Data,” June. https://doi.org/10.1201/9781003229407.\n\n\nOstblom, Joel, and Tiffany Timbers. 2022. “Opinionated Practices for Teaching Reproducibility: Motivation, Guided Instruction and Practice.” Journal of Statistics and Data Science Education 30 (3): 241–50. https://doi.org/10.1080/26939169.2022.2074922."
+    "text": "References\n\n\n\n\nAlexander, Rohan. 2023. “Telling Stories with Data,” June. https://doi.org/10.1201/9781003229407.\n\n\nOstblom, Joel, and Tiffany Timbers. 2022. “Opinionated Practices for Teaching Reproducibility: Motivation, Guided Instruction and Practice.” Journal of Statistics and Data Science Education 30 (3): 241–50. https://doi.org/10.1080/26939169.2022.2074922."
   },
   {
     "objectID": "slides/09-inference-pt2.html#announcements",
@@ -5848,7 +5848,7 @@
     "href": "slides/09-inference-pt2.html#recap",
     "title": "Inference for regression",
     "section": "Recap",
-    "text": "Recap\n\nIntroduced statistical inference in the context of regression\nDescribed the assumptions for regression\nConnected the distribution of residuals and inferential procedures\nConducted inference on a single coefficient\nConducted inference on the overall regression model\n\n\n\n\n\n🔗 STA 221 - Fall 2024"
+    "text": "Recap\n\nIntroduced statistical inference in the context of regression\nDescribed the assumptions for regression\nConnected the distribution of residuals and inferential procedures\nConducted inference on a single coefficient\nConducted inference on the overall regression model"
   },
   {
     "objectID": "slides/22-logistic-conditions-estimation.html#announcements",
@@ -6079,7 +6079,7 @@
     "href": "slides/22-logistic-conditions-estimation.html#references",
     "title": "Logistic Regression: Assumptions + Estimation",
     "section": "References",
-    "text": "References\n\n\n\n\n🔗 STA 221 - Fall 2024\n\n\n\n\nAndualem, Atsedemariam, Belachew Tegegne, Sewunet Ademe, Tarikuwa Natnael, Gete Berihun, Masresha Abebe, Yeshiwork Alemnew, et al. 2022. “COVID-19 Infection Prevention Practices Among a Sample of Food Handlers of Food and Drink Establishments in Ethiopia.” PLoS One 17 (1): e0259851."
+    "text": "References\n\n\n\n\nAndualem, Atsedemariam, Belachew Tegegne, Sewunet Ademe, Tarikuwa Natnael, Gete Berihun, Masresha Abebe, Yeshiwork Alemnew, et al. 2022. “COVID-19 Infection Prevention Practices Among a Sample of Food Handlers of Food and Drink Establishments in Ethiopia.” PLoS One 17 (1): e0259851."
   },
   {
     "objectID": "slides/15-multicollinearity.html#announcements",
@@ -6184,7 +6184,7 @@
     "href": "slides/15-multicollinearity.html#recap",
     "title": "Multicollinearity",
     "section": "Recap",
-    "text": "Recap\n\nIntroduced multicollinearity\n\nDefinition\nHow it impacts the model\nHow to detect it\nWhat to do about it\n\n\n\n\n\n\n🔗 STA 221 - Fall 2024"
+    "text": "Recap\n\nIntroduced multicollinearity\n\nDefinition\nHow it impacts the model\nHow to detect it\nWhat to do about it"
   },
   {
     "objectID": "slides/16-variable-transformations.html#announcements",
@@ -6359,7 +6359,7 @@
     "href": "slides/16-variable-transformations.html#recap",
     "title": "Variable transformations",
     "section": "Recap",
-    "text": "Recap\n\nIntroduced variable transformations\n\n\n\n\n\n🔗 STA 221 - Fall 2024"
+    "text": "Recap\n\nIntroduced variable transformations"
   },
   {
     "objectID": "slides/12-exam-01-review.html#announcements",
@@ -6541,7 +6541,7 @@
     "href": "slides/03-slr-model-assessment.html#next-class",
     "title": "SLR: Model Assessment",
     "section": "Next class",
-    "text": "Next class\n\nMatrix representation of simple linear regression\n\nSee Sep 5 prepare\n\n\n\n\n\n\n🔗 STA 221 - Fall 2024"
+    "text": "Next class\n\nMatrix representation of simple linear regression\n\nSee Sep 5 prepare"
   },
   {
     "objectID": "slides/05-mlr.html#topics",
@@ -6702,7 +6702,7 @@
     "href": "slides/05-mlr.html#next-class",
     "title": "Multiple linear regression (MLR)",
     "section": "Next class",
-    "text": "Next class\n\nMore on multiple linear regression\n\nCategorical predictors\nModel assessment\nGeometric interpretation (as time permits)\n\nSee Sep 12 prepare\n\n\n\n\n\n🔗 STA 221 - Fall 2024"
+    "text": "Next class\n\nMore on multiple linear regression\n\nCategorical predictors\nModel assessment\nGeometric interpretation (as time permits)\n\nSee Sep 12 prepare"
   },
   {
     "objectID": "slides/11-prop-of-estimators-pt2.html#announcements",
@@ -6863,7 +6863,7 @@
     "href": "slides/11-prop-of-estimators-pt2.html#recap",
     "title": "Properties of estimators",
     "section": "Recap",
-    "text": "Recap\nFinite sample ( \\(n\\) ) properties\n\nUnbiased estimator ✅\nBest Linear Unbiased Estimator (BLUE) ✅\n\n\nInfinite sample ( \\(n \\rightarrow \\infty\\) ) properties\n\nConsistent estimator ✅\nEfficient estimator ✅\n\n\n\n\n\n🔗 STA 221 - Fall 2024"
+    "text": "Recap\nFinite sample ( \\(n\\) ) properties\n\nUnbiased estimator ✅\nBest Linear Unbiased Estimator (BLUE) ✅\n\n\nInfinite sample ( \\(n \\rightarrow \\infty\\) ) properties\n\nConsistent estimator ✅\nEfficient estimator ✅"
   },
   {
     "objectID": "slides/17-compare-models.html#announcements",
@@ -7101,7 +7101,7 @@
     "href": "slides/17-compare-models.html#recap",
     "title": "Model comparison",
     "section": "Recap",
-    "text": "Recap\n\nANOVA for Multiple Linear Regression\nNested F Test\nAIC & BIC\n\n\n\n\n\n🔗 STA 221 - Fall 2024"
+    "text": "Recap\n\nANOVA for Multiple Linear Regression\nNested F Test\nAIC & BIC"
   },
   {
     "objectID": "slides/18-prob-odds.html#announcements",
@@ -7220,7 +7220,7 @@
     "href": "slides/18-prob-odds.html#are-teenagers-getting-enough-sleep",
     "title": "Probabilites, odds, odds ratios",
     "section": "Are teenagers getting enough sleep?",
-    "text": "Are teenagers getting enough sleep?\n\nsleep |&gt;\n  count(Sleep7) |&gt;\n  mutate(p = round(n / sum(n), 3))\n\n# A tibble: 2 × 3\n  Sleep7     n     p\n   &lt;int&gt; &lt;int&gt; &lt;dbl&gt;\n1      0   150 0.336\n2      1   296 0.664\n\n\n\n\\(P(\\text{7+ hours of sleep}) = P(Y = 1) = p = 0.664\\)\n\n\n\\(P(\\text{&lt; 7 hours of sleep}) = P(Y = 0) = 1 - p = 0.336\\)\n\n\n\\(P(\\text{odds of 7+ hours of sleep}) = \\frac{0.664}{0.336} = 1.976\\)"
+    "text": "Are teenagers getting enough sleep?\n\nsleep |&gt;\n  count(Sleep7) |&gt;\n  mutate(p = round(n / sum(n), 3))\n\n# A tibble: 2 × 3\n  Sleep7     n     p\n   &lt;int&gt; &lt;int&gt; &lt;dbl&gt;\n1      0   150 0.336\n2      1   296 0.664\n\n\n\n\\(P(\\text{7+ hours of sleep}) = P(Y = 1) = p = 0.664\\)\n\n\n\\(P(\\text{&lt; 7 hours of sleep}) = P(Y = 0) = 1 - p = 0.336\\)\n\n\n\\(\\text{odds of 7+ hours of sleep} = \\frac{0.664}{0.336} = 1.976\\)"
   },
   {
     "objectID": "slides/18-prob-odds.html#from-odds-to-probabilities",
@@ -7332,7 +7332,7 @@
     "href": "slides/18-prob-odds.html#recap",
     "title": "Probabilites, odds, odds ratios",
     "section": "Recap",
-    "text": "Recap\n\nIntroduced logistic regression for binary response variable\nShowed the relationship between odds and probabilities\nIntroduced odds ratios and their connection to logistic model\n\n\n\n\n\n🔗 STA 221 - Fall 2024"
+    "text": "Recap\n\nIntroduced logistic regression for binary response variable\nShowed the relationship between odds and probabilities\nIntroduced odds ratios and their connection to logistic model"
   },
   {
     "objectID": "math-rules.html",

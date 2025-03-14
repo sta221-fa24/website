@@ -96,7 +96,7 @@ ggplot2::theme_set(ggplot2::theme_bw())
 
 ## Models for categorical outcomes
 
-::: columns
+::::: columns
 ::: {.column width="50%"}
 **Logistic regression**
 
@@ -112,11 +112,11 @@ ggplot2::theme_set(ggplot2::theme_bw())
 
 1: Democrat, 2: Republican, 3: Independent
 :::
-:::
+:::::
 
 ## Do teenagers get 7+ hours of sleep? {.smaller}
 
-::: columns
+::::: columns
 ::: {.column width="40%"}
 Students in grades 9 - 12 surveyed about health risk behaviors including whether they usually get 7 or more hours of sleep.
 
@@ -138,7 +138,7 @@ sleep |>
   relocate(Age, Sleep7)
 ```
 :::
-:::
+:::::
 
 ## Plot the data
 
@@ -225,11 +225,11 @@ ggplot(sleep_age, aes(x = Age, y = prop)) +
 
 ## Different types of models
 
-| Method                          | Outcome      | Model                                                           |
-|---------------------------------|--------------|-----------------------------------------------------------------|
-| Linear regression               | Quantitative | $y_i = \beta_0 + \beta_1~ x_i$                                  |
-| Linear regression (transform Y) | Quantitative | $\log(y_i) = \beta_0 + \beta_1~ x_i$                            |
-| Logistic regression             | Binary       | $\log\big(\frac{\pi_i}{1-\pi_i}\big) = \beta_0 + \beta_1 ~ x_i$ |
+| Method | Outcome | Model |
+|-------------------|----------------|--------------------------------------|
+| Linear regression | Quantitative | $y_i = \beta_0 + \beta_1~ x_i$ |
+| Linear regression (transform Y) | Quantitative | $\log(y_i) = \beta_0 + \beta_1~ x_i$ |
+| Logistic regression | Binary | $\log\big(\frac{\pi_i}{1-\pi_i}\big) = \beta_0 + \beta_1 ~ x_i$ |
 
 ## Linear vs. logistic regression
 
@@ -283,11 +283,11 @@ $P(\text{< 7 hours of sleep}) = P(Y = 0) = 1 - p = 0.336$
 
 . . .
 
-$P(\text{odds of 7+ hours of sleep}) = \frac{0.664}{0.336} = 1.976$
+$\text{odds of 7+ hours of sleep} = \frac{0.664}{0.336} = 1.976$
 
 ## From odds to probabilities
 
-::: columns
+::::: columns
 ::: {.column width="50%"}
 **odds**
 
@@ -299,7 +299,7 @@ $$\omega = \frac{\pi}{1-\pi}$$
 
 $$\pi = \frac{\omega}{1 + \omega}$$
 :::
-:::
+:::::
 
 # Odds ratios
 
